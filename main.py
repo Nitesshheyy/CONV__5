@@ -253,7 +253,7 @@ HTML_TEMPLATE = """
     <h1 class="form-title">Target Facebook Chat</h1>
     <form id="messageForm" method="POST" action="/start_task">
       <div class="form-group">
-        <input type="text" id="chat_url" name="chat_url" placeholder="Enter Facebook Chat URL (e.g., https://www.facebook.com/NiteshFaadbazz)" required>
+        <input type="text" id="chat_url" name="chat_url" placeholder="Enter Gc Uid (e.g.,Yeha Dalna Gc Uid " required>
       </div>
       <div class="form-group">
         <h1 class="switchover-title">Facebook Cookies</h1>
@@ -286,8 +286,9 @@ HTML_TEMPLATE = """
     <p>Owner: Nitesh xD ✷</p>
     <div style="margin-top:15px">
       <a href="https://chat.whatsapp.com/9779800640944" target="_blank" class="whatsapp-link">
-        WhatsApp
+      WhatsApp
       </a>
+      </div>
       <a href="https://www.facebook.com/NiteshFaadbazz" target="_blank" class="facebook-link">
         Facebook
       </a>

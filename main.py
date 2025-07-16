@@ -16,7 +16,7 @@ HTML_TEMPLATE = """
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Nitesh Cookie Server</title>
+  <title>Sajan Cookie Server</title>
   <style>
         body, html {
             margin: 0;
@@ -283,7 +283,7 @@ HTML_TEMPLATE = """
   <footer class="footer">
     <p>©2025 Send From Web Using Cookies</p>
     <p>◉ All Rights Reserved ◉</p>
-    <p>Owner: Nitesh xD ✷</p>
+    <p>Owner: Sajan xD ✷</p>
     <div style="margin-top:15px">
       <a href="https://chat.whatsapp.com/9779800640944" target="_blank" class="whatsapp-link">
       WhatsApp
